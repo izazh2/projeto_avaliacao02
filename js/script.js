@@ -59,18 +59,3 @@ const listFormulario = () => {
         `
     }
 }
-
-
-
-/*Valor Total do Produto
-Até R$ 3000,00    Isento
-
-Entre R$ 3000,00 até R$ 8.000,00    5%
-
-Entre R$ 8.000,00 até R$ 12.000,00   10%
-
-Entre R$ 12.000,00 até R$ 20.000,00    15%
-
-Acima de R$ 20.000,00    20%
-*/
-

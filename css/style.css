@@ -1,0 +1,44 @@
+body{
+    background-color: purple;
+}
+
+#div-geral{
+    margin: 20px auto;
+    padding: 20px;
+    background-color: plum;
+    width: 450px;
+    min-height: 450px;
+    border-radius: 8px;
+}
+
+h1{
+    text-align: center;
+}
+
+form{
+    padding: 20px;
+    margin: 20px 0px;
+    width: 400px;
+    border-radius: 8px;
+}
+
+label, input{
+    display: block;
+    margin: 10px 0px;
+}
+
+label{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+#resultado{
+    width: 400px;
+    height: 250px;
+    background-color: plum;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2em;
+    border-radius: 8px;
+}

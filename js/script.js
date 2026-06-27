@@ -10,7 +10,7 @@ formEletronico.addEventListener('submit', (evt) => {
 
     const objFormulario = {
         descricao: dadosForm.get('descricao'),
-        valor: parseFloat(dadosForm.get('uni')),
+        valor: parseFloat(dadosForm.get('valor')),
         quantidade: parseInt(dadosForm.get('quantidade'))
     }
 
